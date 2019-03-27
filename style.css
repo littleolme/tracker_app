@@ -1,0 +1,112 @@
+/* MY CUSTOM FONT IMPORT */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,500i,700,800,900');
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+	line-height: 3;
+}
+ol, ul {
+	list-style: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+    
+body {
+    background-color: white;
+    margin: 25px 150px 25px 150px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    padding: 10px;
+    font-size: 35px;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-style: oblique;
+    color: white;
+    background-color: slategrey;
+    
+}
+
+h2 {
+    margin-top: 45px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    font-size: 30px;
+    padding: 5px;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    margin-top: 45px;
+    margin-bottom: 5px;
+    font-size: 30px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: overline;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: darkgrey;
+    padding: 10px;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+p{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+footer {
+    display: block;
+    background-color: darkgrey;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+}
+
