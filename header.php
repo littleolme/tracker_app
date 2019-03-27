@@ -19,6 +19,6 @@
         <li><a href="login.php">Login</a></li>
         <li><a href="create.php">Add a New Task</a></li>
         <li><a href="read.php">List All Tasks</a></li>
-        <li><a href="update.php">Edit an Task</a></li>
-        <li><a href="delete.php">Delete an Task</a></li>
+        <li><a href="update.php">Edit a Task</a></li>
+        <li><a href="delete.php">Delete a Task</a></li>
     </ul>
