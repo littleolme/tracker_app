@@ -1,7 +1,5 @@
 <?php
-/**
- * Database config
- */
+
 $host       = "sql212.epizy.com";
 $username   = "epiz_23648161";
 $password   = "4WZPCp2csiBw";
