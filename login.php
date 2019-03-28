@@ -1,3 +1,5 @@
+// NOT FUNCTIONAL
+
 <?php
 
 session_start();
