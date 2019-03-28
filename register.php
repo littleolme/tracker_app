@@ -1,4 +1,5 @@
 <?php
+// NOT FUNCTIONAL
 
 require_once "config.php";
 
